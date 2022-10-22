@@ -23,7 +23,7 @@
     <developers>
         <developer>
             <name>Bot Framework Development</name>
-            <email></email>
+            <email/>
             <organization>Microsoft</organization>
             <organizationUrl>https://dev.botframework.com/</organizationUrl>
         </developer>
@@ -98,7 +98,7 @@
       <dependency>
         <groupId>com.microsoft.bot</groupId>
         <artifactId>bot-integration-core</artifactId>
-        <version>4.14.1</version>
+        <version>4.14.2</version>
       </dependency>
   </dependencies>
 
